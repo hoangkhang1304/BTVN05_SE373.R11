@@ -37,4 +37,4 @@ Kết quả chạy thật (trace trong [traces/](stage-02-skills-baitap/traces/)
 - **Skill = quy trình**: chỉ cách chọn đúng chính sách, tính ngày, khi nào hỏi lại. Chỉ nạp khi câu hỏi khớp, không làm nặng context.
 - **Sửa prompt không thay được tool**: prompt viết cố định trước khi chạy, file đổi tên là `read_file` lỗi `FILE_NOT_FOUND`.
 
-Chi tiết phân tích: [analysis.md](analysis.md).
+
